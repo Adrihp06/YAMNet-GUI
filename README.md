@@ -17,9 +17,9 @@ This Python GUI program allows you to manually identify and classify sound event
 ## Installation
 Clone the main repository:
 
-    ```
+
     git clone https://github.com/Adrihp06/YAMNet-GUI.git
-    ```
+
 Download the yamnet repository:
 https://github.com/tensorflow/models/tree/master/research/audioset/yamnet
 
