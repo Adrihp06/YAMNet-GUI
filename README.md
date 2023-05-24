@@ -11,7 +11,7 @@ This Python GUI program allows you to manually identify and classify sound event
 - Play audio segments
 
 <div align="center">
-  <img src="image/yamnetgui.jpg" alt="YAMnet GUI " />
+  <img src="image/yamnetgui.png" alt="YAMnet GUI " />
 </div>
 
 ## Installation
